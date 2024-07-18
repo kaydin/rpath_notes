@@ -71,7 +71,7 @@ Since the asymptotic consumption must be greater than the Ecopath reference cons
 Further, the Ecopath-calculated consumption $\hat{Q}_{i,j}$ in equation (3) can be replaced by the formula for $Q$ of equation (2) where Biomasses are at their Ecopath equilibrium, and cancelling terms, gives:
 $$
 X_{i,j} = 
-\frac {{v_{i,j}\hat{B_{i}}} \cdot (2v_{i,j}+a_{i,j}\hat{B}_{j})} {a_{i,j}v_{i.j}\hat{B}_{i} \hat{B}_{j}} = \frac{2v_{i,j}+a_{i,j}\hat{B}_{j}}{a_{i,j}\hat{B}_{j}}
+\frac {v_{i,j}\hat{B_{i}} \cdot (2v_{i,j}+a_{i,j}\hat{B}_{j})} {a_{i,j}v_{i.j}\hat{B}_{i} \hat{B}_{j}} = \frac{2v_{i,j}+a_{i,j}\hat{B}_{j}}{a_{i,j}\hat{B}_{j}}
 $$ 
 This can be simplified to:
 $$
